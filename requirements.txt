@@ -5,7 +5,7 @@ dill
 tabulate
 matplotlib
 numpy
-tensorflow==2.0.0-rc1
+tensorflow==2.6.4
 scikit-learn
 tqdm
 pandas
